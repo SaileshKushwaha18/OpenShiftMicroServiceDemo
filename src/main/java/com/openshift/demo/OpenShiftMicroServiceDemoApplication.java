@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OpenShiftMicroServiceDemoApplication {
 
 	public static void main(String[] args) {
+		
+		//TO DO
 		SpringApplication.run(OpenShiftMicroServiceDemoApplication.class, args);
 	}
 
